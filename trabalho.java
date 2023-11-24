@@ -3,9 +3,6 @@ package trabalho;
 
 
 import java.util.Random;
-
-
-
 import java.util.Scanner;
 
 
@@ -182,7 +179,7 @@ public class MenuDeOpcoes {
 
 
 
-    System.out.println(media(vetor));
+    media(vetor);
 
 
 
