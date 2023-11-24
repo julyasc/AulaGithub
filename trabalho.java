@@ -182,7 +182,7 @@ public class MenuDeOpcoes {
 
 
 
-    media(vetor);
+    System.out.println(media(vetor));
 
 
 
